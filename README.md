@@ -8,7 +8,6 @@
 ### Install pip3
 `sudo apt-get install python3-pip`
 
-
 ### Install dependencies with pip:
 `pip install -r ./requirements.txt`
 
